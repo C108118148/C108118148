@@ -21,3 +21,9 @@ This is a ` test `!!!
 - [ ] 2nd job
 - [ ] 3rd job
 - [ ] 4th work
+
+
+|Name |Quantity|
+|-----|--------|
+|Apple|3       |
+|Egg  |12      |
