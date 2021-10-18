@@ -25,7 +25,7 @@ This is a ` test `!!!
 ```
 - [x] this is a long quote.
 ```
-- [V] 123
+-  123
 - [ ] undo
 - [ ] 2nd job
 - [ ] 3rd job
